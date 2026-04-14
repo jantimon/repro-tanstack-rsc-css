@@ -1,0 +1,24 @@
+{
+  "name": "repro-tanstack-rsc-css",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite dev --port 3000",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@tanstack/react-router": "^1.168.21",
+    "@tanstack/react-start": "^1.167.39",
+    "react": "^19.2.5",
+    "react-dom": "^19.2.5"
+  },
+  "devDependencies": {
+    "@types/react": "^19.2.14",
+    "@types/react-dom": "^19.2.3",
+    "@vitejs/plugin-react": "^6.0.1",
+    "@vitejs/plugin-rsc": "^0.5.24",
+    "typescript": "^5.8.3",
+    "vite": "^8.0.8"
+  }
+}

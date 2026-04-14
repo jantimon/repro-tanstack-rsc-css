@@ -1,0 +1,15 @@
+.card {
+  max-width: 600px;
+  margin: 40px auto;
+  padding: 20px;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  font-family: system-ui, sans-serif;
+}
+
+.title {
+  color: #e85d04;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  font-size: 2rem;
+}
